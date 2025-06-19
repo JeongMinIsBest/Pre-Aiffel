@@ -1,2 +1,2 @@
 # Pre-Aiffel
-Pre-study before the main course👩🏻‍💻
+Pre-course before the main course👩🏻‍💻
