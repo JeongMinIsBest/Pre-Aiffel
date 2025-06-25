@@ -1,2 +1,6 @@
-# Pre-Aiffel
-Pre-course before the main course👩🏻‍💻
+# Pre-Aiffel ✨
+
+👩‍💻 Language : Python
+
+✍🏻 Pre-course for studies 👩🏻‍💻
+
